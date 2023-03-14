@@ -1,8 +1,11 @@
 package toLearnGitHub1;
 
 public class WorkSmarter {
-public void demo()
-{
-	System.out.println("Hai");
-}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("hiii");
+
+	}
+
 }
